@@ -79,6 +79,7 @@ search.addEventListener("input", function(){
         }
         else{
             element.style.display = "none";
+            
          }
         // console.log(cardTxt);
        })
